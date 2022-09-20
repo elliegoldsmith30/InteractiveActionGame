@@ -10,7 +10,7 @@ This action packed game is designed to take users through a horror game where th
 
 ## Install
 
-In order to install this game, you must download Dr. Racket. Run the code using the run button and play the game using the Final Project Read Me PDF. 
+In order to install this game, you must download Dr. Racket. Open the finalproject.rkt file and run the code using the run button and play the game using the Final Project Read Me PDF. Make sure that all of the files are in a folder together in order for the code to run.
 
 ## Credits
 Code outlined by Northwestern Professor Ian Horswill. 
